@@ -1,0 +1,42 @@
+{
+  "name": "is-regexp-string",
+  "version": "1.0.0",
+  "description": "Check if a string is a regular expression",
+  "license": "MIT",
+  "repository": "Mottie/is-regexp-string",
+  "author": {
+    "name": "Rob Garrison",
+    "email": "wowmotty@gmail.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "check",
+    "string",
+    "regexp",
+    "regex",
+    "regular",
+    "expression"
+  ],
+  "xo": {
+    "space": false,
+    "rules": {
+      "unicorn/escape-case": 0,
+      "quotes": [
+        "error",
+        "double"
+      ]
+    }
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "^0.20.3"
+  }
+}
