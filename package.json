@@ -1,6 +1,6 @@
 {
   "name": "is-regexp-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a string is a regular expression",
   "license": "MIT",
   "repository": "Mottie/is-regexp-string",
