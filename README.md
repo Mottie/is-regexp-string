@@ -1,4 +1,4 @@
-# is-regexp-string
+# is-regexp-string  [![Build Status](https://travis-ci.org/Mottie/is-regexp-string.svg?branch=master)](https://travis-ci.org/Mottie/is-regexp-string)
 
 > Check if a string is a regular expression
 
